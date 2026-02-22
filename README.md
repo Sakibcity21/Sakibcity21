@@ -3,16 +3,16 @@
 
 <p align="left">
   <a href="https://instagram.com/creation__infinity" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://linkedin.com/in/sakib-sayyad/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://youtube.com/@SakibSayyad21" target="_blank">
-    <img src="https://cdn.simpleicons.org/youtube/FF0000" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=yt" />
   </a>
   <a href="mailto:sakibsayyad29706@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 

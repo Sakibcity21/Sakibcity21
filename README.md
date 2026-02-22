@@ -9,7 +9,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://youtube.com/@SakibSayyad21" target="_blank">
-    <img src="https://skillicons.dev/icons?i=youtube" />
+    <img src="https://skillicons.dev/icons?i=yt" />
   </a>
   <a href="mailto:sakibsayyad29706@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />

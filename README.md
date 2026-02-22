@@ -1,4 +1,4 @@
-# 💫 Sakib Sayyad
+# 💫 SAKIB SAYYAD
 ### Full Stack Developer | UI/UX Enthusiast | Tech Student
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/creation__infinity)
@@ -28,20 +28,20 @@ I'm a passionate developer currently sharpening my skills with real-world projec
 ---
 
 ### 📊 My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Sakibcity21&theme=transparent&hide_border=true&show_icons=true&text_color=79ff97&icon_color=79ff97&title_color=ffffff" alt="GitHub Stats" />
+![](https://github-readme-stats.vercel.app/api?username=Sakibcity21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Sakibcity21&theme=transparent&hide_border=true&stroke=00000000&ring=79ff97&fire=79ff97&currStreakNum=ffffff" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakibcity21&theme=transparent&hide_border=true&layout=compact&text_color=79ff97&title_color=ffffff" alt="Top Languages" />
+![](https://nirzak-streak-stats.vercel.app/?user=Sakibcity21&theme=dark&hide_border=false)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sakibcity21&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
 ### 🏆 Achievements
-<img src="https://github-profile-trophy.vercel.app/?username=Sakibcity21&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+![](https://github-profile-trophy.vercel.app/?username=Sakibcity21&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
-<img src="https://visitcount.itsvg.in/api?id=Sakibcity21&icon=0&color=1" alt="Visitors" />
+[![](https://visitcount.itsvg.in/api?id=Sakibcity21&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 

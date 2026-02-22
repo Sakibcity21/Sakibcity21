@@ -1,5 +1,3 @@
-<div align="center">
-
 # 💫 Sakib Sayyad
 ### Full Stack Developer | UI/UX Enthusiast | Tech Student
 
@@ -23,39 +21,27 @@ I'm a passionate developer currently sharpening my skills with real-world projec
 ---
 
 ### 💻 Tech Stack & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,php,python,react,nextjs,nodejs,jquery,vercel,netlify,git,github,canva,adobe&theme=dark" />
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,html,php,python,react,nextjs,nodejs,jquery,vercel,netlify,git,github,canva,adobe&theme=dark" />
+</a>
 
 ---
 
 ### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakibcity21&theme=transparent&hide_border=true&show_icons=true&text_color=79ff97&icon_color=79ff97&title_color=ffffff" alt="GitHub Stats" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Sakibcity21&theme=transparent&hide_border=true&stroke=00000000&ring=79ff97&fire=79ff97&currStreakNum=ffffff" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Sakibcity21&theme=transparent&hide_border=true&show_icons=true&text_color=79ff97&icon_color=79ff97&title_color=ffffff" alt="GitHub Stats" />
+<br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Sakibcity21&theme=transparent&hide_border=true&stroke=00000000&ring=79ff97&fire=79ff97&currStreakNum=ffffff" alt="GitHub Streak" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakibcity21&theme=transparent&hide_border=true&layout=compact&text_color=79ff97&title_color=ffffff" alt="Top Languages" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakibcity21&theme=transparent&hide_border=true&layout=compact&text_color=79ff97&title_color=ffffff" alt="Top Languages" />
 
 ---
 
 ### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sakibcity21&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Sakibcity21&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Sakibcity21&icon=0&color=1" alt="Visitors" />
-</p>
-
-</div>
+<img src="https://visitcount.itsvg.in/api?id=Sakibcity21&icon=0&color=1" alt="Visitors" />
 
 
 
